@@ -4,7 +4,7 @@ This project automates the process of brute-forcing the **4-digit PIN** on a **N
 
 ---
 
-## 🔹 **Features**
+## **Features**
  Automatically **enters PINs** from `9999` down to `0000`  
  Uses **Android UI automation** via `uiautomator2`  
  **Stops immediately** when the correct PIN is found  
@@ -12,7 +12,7 @@ This project automates the process of brute-forcing the **4-digit PIN** on a **N
 
 ---
 
-## 🛠 **Requirements**
+##  **Requirements**
 - Python `3.8+`
 - Android phone with **USB Debugging enabled**
 - Installed `adb` (Android Debug Bridge)
@@ -48,4 +48,6 @@ adb devices
 
 
 ### **Run the Brute-Force Script**
+```bash
 python brute_force_navee.py
+```
