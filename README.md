@@ -1,14 +1,14 @@
-# 🚀 NAVEE PIN Brute-Force Tool
+# NAVEE PIN Brute-Force Tool
 
 This project automates the process of brute-forcing the **4-digit PIN** on a **NAVEE Electric Scooter** using **Android UI automation** via `uiautomator2` or **ADB commands**.
 
 ---
 
 ## 🔹 **Features**
-✅ Automatically **enters PINs** from `9999` down to `0000`  
-✅ Uses **Android UI automation** via `uiautomator2`  
-✅ **Stops immediately** when the correct PIN is found  
-✅ **Fast execution** with optimized input methods  
+ Automatically **enters PINs** from `9999` down to `0000`  
+ Uses **Android UI automation** via `uiautomator2`  
+ **Stops immediately** when the correct PIN is found  
+ **Fast execution** with optimized input methods  
 
 ---
 
@@ -20,7 +20,7 @@ This project automates the process of brute-forcing the **4-digit PIN** on a **N
 
 ---
 
-## 🚀 **Installation & Setup**
+##  **Installation & Setup**
 ### **1️⃣ Install ADB (Android Debug Bridge)**
 - **Windows:** Download [platform-tools](https://developer.android.com/studio/releases/platform-tools) and extract.
 - **Linux/macOS:** Install via terminal:
