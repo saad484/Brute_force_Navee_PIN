@@ -21,7 +21,7 @@ This project automates the process of brute-forcing the **4-digit PIN** on a **N
 ---
 
 ##  **Installation & Setup**
-### **1️⃣ Install ADB (Android Debug Bridge)**
+### **Install ADB (Android Debug Bridge)**
 - **Windows:** Download [platform-tools](https://developer.android.com/studio/releases/platform-tools) and extract.
 - **Linux/macOS:** Install via terminal:
 ```bash
@@ -29,17 +29,17 @@ This project automates the process of brute-forcing the **4-digit PIN** on a **N
     brew install adb       # macOS (Homebrew)
 ``` 
 
-### **2️⃣ Install Required Python Packages**
+### **Install Required Python Packages**
 ```bash
 pip install uiautomator2
 ```
 
-### **3️⃣ Enable Developer Mode on Android**
+### **Enable Developer Mode on Android**
 Go to Settings > About Phone
 Tap "Build Number" 7 times to enable Developer Mode
 Enable USB Debugging under Developer Options
 
-### **4️⃣ Connect Android Device**
+### **Connect Android Device**
 Ensure ADB detects your phone:
 ```bash
 adb devices
